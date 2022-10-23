@@ -172,6 +172,52 @@ body {
 
 
 
+.all {
+  margin: 0;
+  padding: 5px;
+}
+
+.all > h1, .arti {
+  margin: 10px;
+  padding: 5px;
+}
+
+.arti2 {
+  background: white;
+  height: auto;
+  border-radius: 14px;
+  
+
+}
+
+
+.arti2 h2 {
+  color: #5c9fe7;
+}
+
+.arti2 p {
+  font-size:20px ;  }
+
+
+
+.arti2 img {
+  padding-left: 550px;
+  background-repeat: no-repeat;
+  width: 20%;
+  height: 200px;
+}
+
+
+
+
+
+.arti2 > h2, p {
+  margin: 4px;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
 
 
 
